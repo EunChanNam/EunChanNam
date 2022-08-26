@@ -8,7 +8,7 @@
 
 <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/C++-0000CD?style=flat&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/JAVA-A52A2A?style=flat&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/JPA-FF00FF?style=flat&logo=&logoColor=white"/> <img src="https://img.shields.io/badge/Data JPA-FF00FF?style=flat&logo=&logoColor=white"/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EunChanNam)](https://github.com/EunChanNam/github-readme-stats/api?username=EunChanNam&show_icons=true&theme=onedark)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EunChanNam&show_icons=true&theme=onedark)](https://github.com/EunChanNam/github-readme-stats)
 
 <!--
 **EunChanNam/EunChanNam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
