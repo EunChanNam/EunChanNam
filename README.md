@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 :frog: EunChan :frog:
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEunChanNam&count_bg=%233DC849&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com) <a href="https://www.instagram.com/left_chan/"><img src="https://img.shields.io/badge/Instagram-FF69B4?style=flat-square&logo=Instagram&logoColor=white"/></a> <img src="https://img.shields.io/badge/Gmail-FF8C00?style=flat-square&logo=Gmail&logoColor=white"/>
