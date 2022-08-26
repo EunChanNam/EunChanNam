@@ -6,7 +6,7 @@
 
 :computer: Technology Stack :computer:
 
-<img src="https://img.shields.io/badge/Github-181717?style=flat=square&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/JAVA-A52A2A?style=flat&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/JAVA-A52A2A?style=flat&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/JPA-FF00FF?style=flat&logo=&logoColor=white"/>
 
 <!--
 **EunChanNam/EunChanNam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
