@@ -6,8 +6,7 @@
 
 :computer: Technology Stack :computer:
 
-<img src="https://img.shields.io/badge/JAVA-A52A2A?style=flat-square&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-00FF7F?style=flat-square&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVA-A52A2A?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 
 
 <!--
