@@ -6,6 +6,7 @@
 
 :computer: Technology Stack :computer:
 
+<img src="https://img.shields.io/badge/Java-00BFFF?style=flat-square&logo=Java&logoColor=black"/>
 
 <!--
 **EunChanNam/EunChanNam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
