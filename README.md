@@ -8,7 +8,7 @@
 
 <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/C++-0000CD?style=flat&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/JAVA-A52A2A?style=flat&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/JPA-FF00FF?style=flat&logo=&logoColor=white"/> <img src="https://img.shields.io/badge/Data JPA-FF00FF?style=flat&logo=&logoColor=white"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EunChanNam&exclude_repo=HomePage_project-1, HomepageProject)](https://github.com/EunChanNam/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EunChanNam&exclude_repo=HomePage_project-1,HomepageProject)](https://github.com/EunChanNam/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EunChanNam&show_icons=true&theme=onedark)](https://github.com/EunChanNam/github-readme-stats)
 
