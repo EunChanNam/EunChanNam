@@ -13,7 +13,6 @@
 
 <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"/><img src="https://img.shields.io/badge/Intellij-000000?style=flat&logo=Intellij IDEA&logoColor=white"/> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EunChanNam&exclude_repo=HomePage_project-1,HomepageProject,Training,JPA_Study)](https://github.com/EunChanNam/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EunChanNam&show_icons=true&theme=onedark)](https://github.com/EunChanNam/github-readme-stats)
 
