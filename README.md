@@ -16,9 +16,9 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EunChanNam&show_icons=true&theme=onedark)](https://github.com/EunChanNam/github-readme-stats)
 
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EunChanNam&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EunChanNam&layout=compact"><br><br>
   
-  [![Solved.ac namhm23](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![Solved.ac EunChan](http://mazassumnida.wtf/api/generate_badge?boj=namhm23)](https://solved.ac/namhm23)
 
 <!--
 **EunChanNam/EunChanNam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
