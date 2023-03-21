@@ -15,8 +15,6 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EunChanNam&show_icons=true&theme=onedark)](https://github.com/EunChanNam/github-readme-stats)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EunChanNam&layout=compact"><br><br>
   
 [![Solved.ac EunChan](http://mazassumnida.wtf/api/v2/generate_badge?boj=namhm23)](https://solved.ac/namhm23)
 
