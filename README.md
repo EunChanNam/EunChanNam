@@ -7,7 +7,7 @@
 
 <h4>:computer: Technology Stack :computer:</h4>
 
-<img src="https://img.shields.io/badge/JAVA-A52A2A?style=flat&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/JPA-FF00FF?style=flat&logo=&logoColor=white"/> <img src="https://img.shields.io/badge/Data JPA-FF00FF?style=flat&logo=&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVA-A52A2A?style=flat&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/JPA-FF00FF?style=flat&logo=&logoColor=white"/>
 
 <h4>:hammer: Tools :hammer:</h4>
 
