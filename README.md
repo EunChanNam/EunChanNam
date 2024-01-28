@@ -7,7 +7,7 @@
 <a href="https://velog.io/@namhm23/posts">기술 블로그 링크</a>
 
 <h4>📑 About me </h4>
-<a href="https://github.com/EunChanNam/EunChanNam/files/13930597/default.pdf">남은찬 이력서</a>
+<a href="https://github.com/EunChanNam/EunChanNam/files/14075478/_.pdf">남은찬 이력서</a>
 
 <h4>:computer: Technology Stack</h4>
 
