@@ -6,9 +6,6 @@
 <h4>📝 Tech Blog</h4>
 <a href="https://velog.io/@namhm23/posts">기술 블로그 링크</a>
 
-<h4>📑 About me </h4>
-<a href="https://github.com/EunChanNam/EunChanNam/files/14075478/_.pdf">남은찬 이력서</a>
-
 <h4>:computer: Technology Stack</h4>
 
 <img src="https://img.shields.io/badge/JAVA-A52A2A?style=flat&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/JPA-FF00FF?style=flat&logo=&logoColor=white"/>
