@@ -4,8 +4,8 @@
 
 ## 💼 Work Experience
 <!-- 여기에 회사 이력을 추가하세요 -->
-- **EstateCloud** | Server Developer | 2024/10 ~ 2025/5
-- **Toss bank** | Server Developer | 2025/06 ~ ING
+- **EstateCloud** | Server Developer | 2024/10 ~ 2025/05
+- **Toss bank** | Server Developer | 2025/06 ~
 
 ## 📝 Tech Blog
 [기술 블로그 링크](https://velog.io/@namhm23/posts)
